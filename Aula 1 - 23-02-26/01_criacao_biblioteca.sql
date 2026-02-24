@@ -1,4 +1,3 @@
--- filepath: /home/202312160017@ifto.local/.dbclient/storage/1771887645540@@127.0.0.1@3306/create-db-template.sql
 CREATE DATABASE IF NOT EXISTS AulaBDII;
 USE AulaBDII;
 
@@ -17,7 +16,7 @@ CREATE TABLE livro (
     ano_publicacao YEAR
 );
 
--- Tabela de usuarios (diferenciados por tipo: aluno ou professor)
+-- Tabela de usuarios (alunos e professores)
 CREATE TABLE usuario (
     id_usuario INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(150) NOT NULL,
