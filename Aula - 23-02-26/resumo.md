@@ -1,4 +1,4 @@
-# Aula 1 — 23/02/2026
+# Aula — 23/02/2026
 
 ## Tema: Criação do Banco de Dados e Modelagem de Tabelas
 
