@@ -23,7 +23,9 @@ Banco de dados II/
 
 | Aula | Data | Tema | Link |
 |------|------|------|------|
-| 1 | 23/02/2026 | Criação do banco e modelagem de tabelas | [Aula 1](Aula%201%20-%2023-02-26/) |
+| 1 | 23/02/2026 | Criação do banco e modelagem de tabelas | [Aula - 23-02-26](Aula%20-%2023-02-26/) |
+| 2 | 16/03/2026 | Joins (INNER, LEFT, RIGHT, FULL simulado, CROSS, SELF) | [Aula - 16-03-26](Aula%20-%2016-03-26/) |
+| 3 | 23/03/2026 | Joins, Agregação e Subqueries | [Aula - 23-03-26](Aula%20-%2023-03-26/) |
 
 ---
 

@@ -1,0 +1,8 @@
+-- Instruções para realização do exercício
+-- Neste exercício, você trabalhará com funções de agregação, junção de tabelas (INNER JOIN e LEFT JOIN) e a cláusula WHERE.
+-- Para realizar corretamente as consultas, siga as orientações abaixo:
+-- 1. Utilize funções de agregação como COUNT(), SUM(), AVG(), MAX() e MIN() para calcular valores estatísticos sobre os dados.
+-- 2. Faça junções de tabelas usando INNER JOIN e LEFT JOIN para recuperar informações combinadas de múltiplas tabelas.
+-- 3. Utilize a cláusula WHERE para filtrar os dados e restringir os resultados com base em critérios específicos.
+-- 4. Organize suas consultas de maneira clara, garantindo que cada uma retorne as informações solicitadas.
+-- 5. Teste e valide cada consulta para garantir que os resultados estejam corretos e coerentes com os dados do banco.
